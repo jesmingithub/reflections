@@ -2,3 +2,6 @@ When would you want to use a remote repository rather than keeping all your work
 I can share my reflections with others. I can read others' reflection and compare mine with others.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Otherwise unwanted changes can occur. There should also be a provision for files from other computers to be pulled to our ocal repository.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Cloning branches within github is called forking. Cloning can be done from github to local.We can also clone a repository to another spot on the computer.
+Labels made for commits are called branches.
