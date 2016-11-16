@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 I can share my reflections with others. I can read others' reflection and compare mine with others.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Otherwise unwanted changes can occur. There should also be a provision for files from other computers to be pulled to our ocal repository.
