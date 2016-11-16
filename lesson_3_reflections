@@ -5,3 +5,5 @@ Otherwise unwanted changes can occur. There should also be a provision for files
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Cloning branches within github is called forking. Cloning can be done from github to local.We can also clone a repository to another spot on the computer.
 Labels made for commits are called branches.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We would thereby know whether the gitHub repository and local one is out of sync.
