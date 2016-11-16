@@ -7,3 +7,5 @@ Cloning branches within github is called forking. Cloning can be done from githu
 Labels made for commits are called branches.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We would thereby know whether the gitHub repository and local one is out of sync.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I might have to use emails. It would be harder.Git is easier.
